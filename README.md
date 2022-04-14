@@ -1,7 +1,7 @@
 # Book Search.
 
 ## Purpose
-
+A Book Finder web app powered by Google Books API which is built using HTML/CSS, Bootstrap and Javascript that generates a list of books relevant to what is typed in the search bar.
 
 ## Built With
 * HTML
