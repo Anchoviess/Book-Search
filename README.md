@@ -17,9 +17,8 @@ https://github.com/EPW80/Book-Search/deployments/activity_log?environment=github
 
 ## Mock-up
 
-![Book-Search: Erik Williams](/assets/images/projectPhoto.jpg)
-![Book-Search: Erik Williams](/assets/images/projectPhoto2.jpg)
-
+![Book-Search: Anthony-Ledesma](https://files.slack.com/files-pri/T033RDBUTNC-F03B9B39QMC/projectphoto.jpg)
+![Book-Search: Anthony-Ledesma](https://files.slack.com/files-pri/T033RDBUTNC-F03BUJXTZUH/projectphoto2.jpg)
 ## Challenges 
 
 
