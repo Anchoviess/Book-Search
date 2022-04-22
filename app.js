@@ -107,7 +107,9 @@ function bookSearch(){
         success: function(data) {
             for(i = 0; i < data.items.length; i++){
                 results.innerHTML += "<h2>" + data.items[i].volumeInfo.title + "<h2>"
+                
             }
+            
         },
         type: 'GET'
     });
